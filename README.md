@@ -249,4 +249,171 @@ The completion of the data analysis project empowered the team to derive meaning
 <img width="595" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/6e2fd544-e544-4f70-a68e-a9c620b9920c">
 
 
+# Project Title
+
+# USE CASE: 7
+
+### Problem Statement:
+
+**Business Context:**
+The organization required a Sales Scorecard Dashboard utilizing data from Adventure Works sales. To achieve this, we needed to leverage Power BI service and Power BI desktop.
+
+**Challenges:**
+1. Publishing a report on the Power BI service, preferably with Row-Level Security (RLS) implementation, was crucial for seamless accessibility and controlled data access.
+2. Acquiring skills in developing the Sales Scorecard Dashboard through Power BI service along with the usage of DAX for effective data analysis.
+
+### Solution:
+
+**Report Publication:**
+- Successfully published the report on the Power BI service, ensuring the accessibility and collaborative features for team members.
+- Implemented Row-Level Security (RLS) if deemed necessary for controlled data access.
+
+**Development and DAX Usage:**
+- Developed the Sales Scorecard Dashboard using Power BI service, demonstrating the effective utilization of DAX for insightful data analysis.
+
+### Dashboard Demonstration:
+
+**Power BI Service:**
+- Demonstrated the published report on the Power BI service, showcasing the implemented features and, if applicable, the RLS for controlled data access.
+
+**Development and DAX:**
+- Showcased the development process of the Sales Scorecard Dashboard on Power BI service, emphasizing the usage of DAX for dynamic calculations and measures.
+
+**Team Demo:**
+- Conducted a comprehensive demonstration to the team, illustrating the features of the Sales Scorecard Dashboard and addressing any specific needs or questions.
+
+### Conclusion:
+
+The completion of the Sales Scorecard Dashboard project empowered the team with an effective tool for analyzing sales data. The utilization of Power BI service, along with DAX for calculations, provided a robust solution. The published report on the Power BI service ensured accessibility and collaboration, and if applicable, the implementation of RLS added an extra layer of data security. The skills acquired in developing dashboards and utilizing DAX will continue to be valuable for future data visualization projects.
+
+## Report View
+<img width="607" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/cfddff1c-ae28-4e64-aef8-a00396c1e7cf">
+
+
+# Project Title
+
+# USE CASE: 8
+
+### Problem Statement:
+
+**Business Context:**
+The organization required a Sales Profit Dashboard utilizing data from Adventure Works Sales. To achieve this, we needed to leverage Power BI service and Power BI desktop.
+
+**Challenges:**
+1. Publishing a report on the Power BI service, preferably with Row-Level Security (RLS) implementation, was crucial for seamless accessibility and controlled data access.
+2. Acquiring skills in developing the Sales Profit Dashboard through Power BI service along with the usage of DAX for effective data analysis.
+
+### Solution:
+
+**Report Publication:**
+- Successfully published the report on the Power BI service, ensuring the accessibility and collaborative features for team members.
+- Implemented Row-Level Security (RLS) if deemed necessary for controlled data access.
+
+**Development and DAX Usage:**
+- Developed the Sales Profit Dashboard using Power BI service, demonstrating the effective utilization of DAX for insightful data analysis.
+
+### Dashboard Demonstration:
+
+**Power BI Service:**
+- Demonstrated the published report on the Power BI service, showcasing the implemented features and, if applicable, the RLS for controlled data access.
+
+**Development and DAX:**
+- Showcased the development process of the Sales Profit Dashboard on Power BI service, emphasizing the usage of DAX for dynamic calculations and measures.
+
+**Team Demo:**
+- Conducted a comprehensive demonstration to the team, illustrating the features of the Sales Profit Dashboard and addressing any specific needs or questions.
+
+### Conclusion:
+
+The completion of the Sales Profit Dashboard project empowered the team with an effective tool for analyzing sales data. The utilization of Power BI service, along with DAX for calculations, provided a robust solution. The published report on the Power BI service ensured accessibility and collaboration, and if applicable, the implementation of RLS added an extra layer of data security. The skills acquired in developing dashboards and utilizing DAX will continue to be valuable for future data visualization projects.
+
+## Report View
+<img width="603" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/d21c36dd-82b2-4370-85b1-c2cfec09fd0c">
+
+
+# Project Title
+
+# USE CASE: 9
+
+### Problem Statement:
+
+**Business Context:**
+The organization required a Profit Growth analysis utilizing data from Adventure Works Sales. To achieve this, we needed to leverage Power BI service and Power BI desktop.
+
+**Challenges:**
+1. Publishing a report on the Power BI service, preferably with Row-Level Security (RLS) implementation, was crucial for seamless accessibility and controlled data access.
+2. Acquiring skills in developing the Profit Growth analysis through Power BI service along with the usage of DAX for effective data analysis.
+
+### Solution:
+
+**Report Publication:**
+- Successfully published the report on the Power BI service, ensuring the accessibility and collaborative features for team members.
+- Implemented Row-Level Security (RLS) if deemed necessary for controlled data access.
+
+**Development and DAX Usage:**
+- Developed the Profit Growth analysis using Power BI service, demonstrating the effective utilization of DAX for insightful data analysis.
+
+### Dashboard Demonstration:
+
+**Power BI Service:**
+- Demonstrated the published report on the Power BI service, showcasing the implemented features and, if applicable, the RLS for controlled data access.
+
+**Development and DAX:**
+- Showcased the development process of the Profit Growth analysis on Power BI service, emphasizing the usage of DAX for dynamic calculations and measures.
+
+**Team Demo:**
+- Conducted a comprehensive demonstration to the team, illustrating the features of the Profit Growth analysis and addressing any specific needs or questions.
+
+### Conclusion:
+
+The completion of the Profit Growth analysis project empowered the team with an effective tool for analyzing sales data. The utilization of Power BI service, along with DAX for calculations, provided a robust solution. The published report on the Power BI service ensured accessibility and collaboration, and if applicable, the implementation of RLS added an extra layer of data security. The skills acquired in developing data analysis dashboards and utilizing DAX will continue to be valuable for future projects involving complex data analysis and visualization.
+## Report View
+<img width="485" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/4fbd2b9f-eb09-4761-81b4-1eccbf80e110">
+
+### Problem Statement:
+
+**Business Context:**
+The organization required detailed analysis of Category Details utilizing data from Adventure Works Sales. To achieve this, we needed to leverage Power BI service and Power BI desktop.
+
+**Challenges:**
+1. Creating a report using Bookmarks was crucial for providing an interactive and dynamic user experience.
+2. Implementing a "Clear All" Button to reset all selections on slicers added to the complexity of the report.
+3. Developing "Profit" and "Sales" Buttons to dynamically display Profit and Sales details respectively required specific design considerations.
+4. Publishing the report on the Power BI service, preferably with Row-Level Security (RLS) implementation, was important for seamless accessibility and controlled data access.
+5. Acquiring skills in developing the Category Details report using Power BI desktop along with the usage of DAX for effective data analysis.
+
+### Solution:
+
+**Report Creation with Bookmarks:**
+- Successfully created the Category Details report using Bookmarks, providing an interactive and dynamic user experience.
+
+**Button Implementation:**
+- Implemented a "Clear All" Button to reset all selections on slicers, enhancing the user's control over data filtering.
+- Developed "Profit" and "Sales" Buttons to dynamically display Profit and Sales details based on user interactions.
+
+**Report Publication:**
+- Published the report on the Power BI service, ensuring accessibility and collaborative features for team members.
+- Implemented Row-Level Security (RLS) if deemed necessary for controlled data access.
+
+### Demo and Presentation:
+
+**Interactive Bookmarks:**
+- Demonstrated the interactive Bookmarks in the Category Details report, showcasing the dynamic nature of the user experience.
+
+**Button Functionality:**
+- Showcased the functionality of the "Clear All," "Profit," and "Sales" Buttons, illustrating how they enhance user control and provide specific details.
+
+**Power BI Service:**
+- Demonstrated the published report on the Power BI service, showcasing the implemented features and, if applicable, the RLS for controlled data access.
+
+**Team Demo:**
+- Conducted a comprehensive demonstration to the team, illustrating the features of the Category Details report and addressing any specific needs or questions.
+
+### Conclusion:
+
+The completion of the Category Details report project empowered the team with an interactive and user-friendly tool for analyzing sales data. The utilization of Power BI desktop, Bookmarks, and DAX for calculations provided a robust solution. The published report on the Power BI service ensured accessibility and collaboration, and if applicable, the implementation of RLS added an extra layer of data security. The skills acquired in developing interactive reports and utilizing DAX will continue to be valuable for future projects involving user-driven data exploration.
+## Report view
+<img width="604" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/5bac81e4-3150-4c47-bd55-34f603c2f10b">
+
+
 

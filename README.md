@@ -78,3 +78,47 @@ The completion of the Wind Power Dashboard project enabled the team to analyze a
 ## Report View:
 ![image](https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/508313bf-0e03-4c99-811e-96fa3e6121e1)
 
+
+
+# Project Title
+
+# USE CASE: 4
+
+## Problem Statement:
+
+**Business Context:**
+The organization needed a comprehensive Infant Mortality Summary utilizing data from the source available [here](https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison). To achieve this, we needed to leverage Power BI desktop or service along with Excel.
+
+**Challenges:**
+1. Publishing a report on the Power BI service with ten different map functionalities was essential for providing a rich and varied analysis of infant mortality rates.
+2. Acquiring exhaustive skills in utilizing Power BI's map functionality was crucial for developing an informative and visually appealing summary.
+
+### Solution:
+
+**Publishing Report:**
+- Successfully published the report on the Power BI service, showcasing ten different map functionalities to enhance the visualization of infant mortality rates.
+- Explored Power BI's map features to provide a diverse range of analytical perspectives.
+
+**Skill Acquisition:**
+- Acquired exhaustive skills in utilizing Power BI's map functionality, enabling the creation of dynamic and interactive visualizations for a more comprehensive summary.
+
+### Summary Demonstration:
+
+**Map Functionalities:**
+- Demonstrated the ten different map functionalities incorporated into the report, such as heat maps, filled maps, and bubble maps.
+- Showcased how each map functionality offered unique insights into infant mortality rates across different regions.
+
+**Power BI Service:**
+- Highlighted the successful publication of the report on the Power BI service, emphasizing the accessibility and collaborative features for team members.
+
+**Team Demo:**
+- Conducted a comprehensive demonstration to the team, showcasing the various map functionalities and their significance in analyzing infant mortality data.
+- Discussed the importance of using Power BI's map features for creating a visually compelling and informative summary.
+
+### Conclusion:
+
+The completion of the Infant Mortality Summary project enabled the team to analyze and visualize infant mortality rates from diverse perspectives. The utilization of Power BI's map functionalities, coupled with the successful publication on the Power BI service, provided an effective tool for team members to make data-driven decisions. The skills acquired in using map functionality will continue to be valuable for future projects involving geographic data analysis.
+
+## Report View:
+![image](https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/b754c3c2-7403-4f0c-a4b5-0e999a5ac3d5)
+

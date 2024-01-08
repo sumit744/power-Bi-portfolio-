@@ -181,3 +181,72 @@ The completion of the World - People and Society project empowered the team to a
 ## Report View
 <img width="514" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/27e1ac17-aec4-4b8a-81db-9df1898ba364">
 <img width="496" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/34273e17-cbe3-4b84-8eb3-99b2d87de2c4">
+
+
+### Problem Statement:
+
+
+# Project Title
+
+# USE CASE: 6
+
+### Problem Statement:
+
+### Problem Statement:
+
+**Business Context:**
+The organization required a detailed analysis, not sport-related, utilizing data from the attached source. To achieve this, we needed to leverage Power BI desktop or service along with Excel.
+
+**Challenges:**
+1. Implementing Row-Level Security (RLS) by Group was crucial to ensure controlled access to data based on user roles.
+2. Displaying key KPIs, such as Top selling products in each Category and Sub-Category, MoM Sales for Products (Comparing with the same period last year), and Demographics Distribution of Sales for the selected product, required extensive data preparation, massaging, and dimensional modeling.
+3. Acquiring skills in utilizing Power BI's functionality with detailed DAX for in-depth analysis.
+4. Implementing a sporty-themed wireframe design to bring out the energy in sports.
+5. Designing and implementing visuals for a dynamic and engaging presentation, including visual storytelling.
+
+### Solution:
+
+**RLS Implementation:**
+- Successfully implemented Row-Level Security by Group to ensure controlled access to data based on user roles.
+
+**Data Display:**
+- Conducted extensive data preparation, massaging, and dimensional modeling to display key KPIs, such as Top selling products, MoM Sales for Products, and Demographics Distribution of Sales.
+
+**DAX Functionality:**
+- Utilized various DAX functionalities to perform in-depth analysis and calculations on the provided data.
+
+**Sporty Wireframe Design:**
+- Implemented a sporty-themed wireframe design, bringing out the energy and dynamic nature of sports.
+
+**Visuals and Visual Storytelling:**
+- Designed and implemented various visuals from Power BI to provide an engaging and dynamic presentation of the analyzed data.
+- Utilized visual storytelling techniques to enhance the understanding and impact of the analysis.
+
+**Report Publication:**
+- Published the designed report on the Power BI service for accessibility and collaboration.
+
+### Summary Demonstration:
+
+**Sporty Wireframe Design:**
+- Demonstrated the sporty-themed wireframe design, showcasing how it brings energy and dynamism to the data presentation.
+
+**Visuals and DAX Functionalities:**
+- Showcased the implemented visuals and the depth of analysis achieved through detailed DAX functionalities.
+
+**Power BI Service:**
+- Highlighted the successful publication of the report on the Power BI service, emphasizing accessibility and collaborative features for team members.
+
+**Team Demo:**
+- Conducted a comprehensive demonstration to the team, showcasing the implemented RLS, sporty-themed design, visuals, and the impact of visual storytelling.
+
+### Conclusion:
+
+The completion of the data analysis project empowered the team to derive meaningful insights from the provided data. The utilization of Power BI's functionalities, detailed DAX calculations, and RLS implementation provided a robust solution for data-driven decision-making. The sporty-themed wireframe design and engaging visual storytelling enhanced the presentation of the analysis, making it more dynamic and impactful. The skills acquired in data preparation, massaging, and dimensional modeling will continue to be valuable for future projects involving complex data analysis and visualization.
+
+## Report View
+<img width="597" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/eec6b5e4-2eda-4891-a708-bfb2d5430ffc">
+<img width="599" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/74bf1207-af6a-4db3-852b-4c848a1ee0bb">
+<img width="595" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/6e2fd544-e544-4f70-a68e-a9c620b9920c">
+
+
+

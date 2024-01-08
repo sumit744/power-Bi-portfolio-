@@ -122,3 +122,61 @@ The completion of the Infant Mortality Summary project enabled the team to analy
 ## Report View:
 ![image](https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/b754c3c2-7403-4f0c-a4b5-0e999a5ac3d5)
 
+
+# Project Title
+
+# USE CASE: 5
+
+### Problem Statement:
+
+**Business Context:**
+The organization required a detailed World - People and Society analysis utilizing data from the source available [here](https://www.cia.gov/the-world-factbook/references/guide-to-country-comparisons/#people-and-society). To achieve this, we needed to leverage Power BI desktop or service along with Excel.
+
+**Challenges:**
+1. Implementing Row-Level Security (RLS) by continent was crucial to ensure the confidentiality and security of sensitive data.
+2. Displaying various key indicators such as Area, Population, Birth Rate, Death Rate, and others required extensive data preparation, massaging, and dimensional modeling.
+3. Acquiring skills in utilizing Power BI's functionality with detailed DAX for in-depth analysis.
+4. Implementing a flexible wireframe design to allow dynamic exploration of different aspects of People and Society data.
+5. Designing and implementing visuals for comparison, including Death/HIV Death Rate for the Top 10 Countries.
+
+### Solution:
+
+**RLS Implementation:**
+- Successfully implemented Row-Level Security by continent to ensure controlled access to data based on user roles.
+
+**Data Display:**
+- Conducted extensive data preparation, massaging, and dimensional modeling to display key indicators such as Area, Population, Population Growth Rate, Birth Rate, Death Rate, Net Migration Rate, Infant Mortality Rate, Total Fertility Rate, Maternal Mortality Rate, HIV Adult Prevalence Rate, and Obesity Adult Prevalence Rate.
+
+**DAX Functionality:**
+- Utilized various DAX functionalities to perform in-depth analysis and calculations on the People and Society data.
+
+**Wireframe Design:**
+- Implemented a flexible wireframe design, allowing users to dynamically explore different dimensions of the data and select options for viewing all countries' data.
+
+**Visuals and Comparison:**
+- Designed and implemented various visuals from Power BI to provide a comprehensive overview of the People and Society data.
+- Developed visuals for the comparison of Death/HIV Death Rate for the Top 10 Countries.
+
+**Report Publication:**
+- Published the designed report on the Power BI service for accessibility and collaboration.
+
+### Summary Demonstration:
+
+**Wireframe Design:**
+- Demonstrated the flexibility of the wireframe design, showcasing how users can explore different aspects of People and Society data.
+
+**Visuals and DAX Functionalities:**
+- Showcased the implemented visuals, highlighting the depth of analysis achieved through detailed DAX functionalities.
+
+**Power BI Service:**
+- Highlighted the successful publication of the report on the Power BI service, emphasizing accessibility and collaborative features for team members.
+
+**Team Demo:**
+- Conducted a comprehensive demonstration to the team, showcasing the implemented RLS, wireframe design, visuals, and the depth of analysis achieved through detailed DAX functionalities.
+
+### Conclusion:
+
+The completion of the World - People and Society project empowered the team to analyze and visualize data from diverse perspectives. The utilization of Power BI's functionalities, detailed DAX calculations, and RLS implementation provided a robust solution for data-driven decision-making. The skills acquired in data preparation, massaging, and dimensional modeling will continue to be valuable for future projects involving complex data analysis and visualization.
+
+## Report View
+<img width="514" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/27e1ac17-aec4-4b8a-81db-9df1898ba364">

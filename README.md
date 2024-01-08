@@ -120,7 +120,7 @@ The organization needed a comprehensive Infant Mortality Summary utilizing data 
 The completion of the Infant Mortality Summary project enabled the team to analyze and visualize infant mortality rates from diverse perspectives. The utilization of Power BI's map functionalities, coupled with the successful publication on the Power BI service, provided an effective tool for team members to make data-driven decisions. The skills acquired in using map functionality will continue to be valuable for future projects involving geographic data analysis.
 
 ## Report View:
-![image](https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/b754c3c2-7403-4f0c-a4b5-0e999a5ac3d5)
+<img width="605" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/82c3a3d2-3037-44c4-a16a-fdb2f88f1036">
 
 
 # Project Title

@@ -180,3 +180,4 @@ The completion of the World - People and Society project empowered the team to a
 
 ## Report View
 <img width="514" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/27e1ac17-aec4-4b8a-81db-9df1898ba364">
+<img width="496" alt="image" src="https://github.com/sumit744/power-Bi-portfolio-/assets/64303866/34273e17-cbe3-4b84-8eb3-99b2d87de2c4">
